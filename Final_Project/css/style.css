@@ -3,15 +3,16 @@
 ==================================== */
 
 body {
-    background: #897ba1;
+    background: #e6e5e7;
 }
 
 h1 {
-    color: rgb(229, 255, 0);
+    color: rgb(38, 41, 41
+    );
 }
 
 h3 {
-    color: aqua;
+    color: rgb(38, 41, 41);
 }
 
 /* ================================= 
@@ -46,3 +47,14 @@ h3 {
     color: white;
   }
   
+/* ================================= 
+ Container Sizing
+==================================== */
+
+
+
+ /*  @media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+} */
