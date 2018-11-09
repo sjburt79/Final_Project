@@ -7,8 +7,7 @@ body {
 }
 
 h1 {
-    color: rgb(38, 41, 41
-    );
+    color: rgb(38, 41, 41);
 }
 
 h3 {
@@ -47,14 +46,3 @@ h3 {
     color: white;
   }
   
-/* ================================= 
- Container Sizing
-==================================== */
-
-
-
- /*  @media (min-width: 1200px) {
-    .container{
-        max-width: 970px;
-    }
-} */
