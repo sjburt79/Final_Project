@@ -11,18 +11,10 @@ $(document).ready(function(){
     });
 });
 
-/* document.addEventListener("mouseover", function(){
-    document.getElementById("gameone").style.background = "red";
-});
+// 
+//Click Events
+//
 
-document.addEventListener("mouseout", function(){
-    document.getElementById("gameone").style.background = "white";
-});
-
-document.addEventListener("mouseover", function(){
-    document.getElementById("gametwo").style.background = "red";
-});
-
-document.addEventListener("mouseout", function(){
-    document.getElementById("gametwo").style.background = "white";
-}); */
+function changeText(id) {
+        id.innerHTML = "Coming Soon!";
+    }
